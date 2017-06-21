@@ -1,0 +1,68 @@
+.bottle {
+  height: 400px;
+  padding: 2px;
+  margin: 2px;
+  display: block;
+}
+
+.name {
+  padding: 2px;
+  margin: 2px;
+  font-size: 1.9em;
+  color: firebrick;
+  font-family: fantasy;
+}
+
+.tagline {
+    color: midnightblue;
+    font-size: 1em;
+    padding: 2px;
+    margin: 2px;
+    font-family: fantasy;
+  }
+
+.description {
+  color: midnightblue;
+  font-size: 0.7em;
+  padding: 2px;
+  margin: 2px;
+  font-family: fantasy;
+}
+
+h1 {
+  text-align: center;
+  font-size: 5em;
+  font-weight: bold;
+  font-family: fantasy;
+  color: midnightblue ;
+}
+
+body {
+  background-color: silver;
+  width: 1000px;
+  font-family: fantasy;
+}
+
+main{
+  background-color: blue;
+  width: 300px;
+  margin: 0 auto;
+}
+
+dl {
+text-align: center;
+}
+
+select{
+  background-color: lightgray;
+  padding: 2px;
+  border-radius: 10px;
+  width: 350px;
+  font-size: 1em;
+  margin: 2px;
+  font-family: fantasy;
+}
+
+p {
+  color: firebrick;
+}
